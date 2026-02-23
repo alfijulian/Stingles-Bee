@@ -1,0 +1,11 @@
+TRAIN_PATH = "dataset/train"
+VAL_PATH   = "dataset/validation"
+
+IMAGE_SIZE = (299, 299)
+BATCH_SIZE = 10
+NUM_CLASSES = 4
+
+EPOCHS_STAGE1 = 50
+EPOCHS_STAGE2 = 50
+
+LEARNING_RATE = 1e-4
